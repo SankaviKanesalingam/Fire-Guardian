@@ -55,8 +55,7 @@ This project is a **Fire Prevention System** designed to detect fire using multi
 - Udith
 - Dharshana
 
-## License 📜
-This project is licensed under the MIT License.
+
 
 ---
 ### 🔥 Stay Safe! Fire prevention saves lives.
