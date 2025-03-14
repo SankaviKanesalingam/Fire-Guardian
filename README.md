@@ -51,8 +51,9 @@ This project is a **Fire Prevention System** designed to detect fire using multi
 - Enhanced sensor fusion for accuracy.
 
 ## Contributors 👨‍💻
-- [Your Name]
-- [Team Members]
+- Sankavi
+- Udith
+- Dharshana
 
 ## License 📜
 This project is licensed under the MIT License.
